@@ -9,3 +9,5 @@ const first = () => {
 export default first;
 
 // localhost:3000/products/first
+
+// localhost:3000/products ==> this wont render anything as root file is missing 
