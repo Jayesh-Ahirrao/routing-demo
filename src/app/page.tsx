@@ -1,3 +1,3 @@
 export default function Mycomp() {
-    return <h1>HELLO from page</h1>
+    return <h1>Home</h1>
 }
