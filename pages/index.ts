@@ -1,0 +1,1 @@
+// this component is rendered on base url as it is index 
